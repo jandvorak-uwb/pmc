@@ -1,0 +1,27 @@
+site_name: PMC
+site_description: Predictive Molecule Compression
+site_url: https://jandvorak-uwb.github.io/pmc/
+repo_name: 'jandvorak-uwb/pmc'
+repo_url: https://github.com/jandvorak-uwb/pmc/
+
+edit_uri: ""
+
+nav:
+    - Home: index.md
+    - Command line tool: bin.md
+    - API Reference: api.md
+    
+theme:
+    name: material
+    logo:
+        icon: "home"
+    palette:
+        primary: "black"
+        accent: "black"
+    
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
