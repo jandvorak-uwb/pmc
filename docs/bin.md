@@ -12,7 +12,7 @@ The application was tested on 64-bit versions of Windows 10 (version 1909) and D
 [Download here](https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-2.1.14-windows-x64-installer)
 
 ####Debian 10
-[Installation instructions](https://www.mono-project.com/download/stable/#download-lin)
+[Installation instructions](https://www.mono-project.com/download/stable/#download-lin-debian)
 
 ###NetCDF (Optional)
 
