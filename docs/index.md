@@ -4,4 +4,4 @@
 Compression method for molecular dynamics trajectories exploiting knowledge of molecular bonds.
 
 !!! caution
-    For now, only reference command line tool written in C# is accessible to public. In the future, authors plan to also release an open source library.
+    Currently only reference command line tool written in C# is accessible to public. In the future, authors plan to also release an open source library.
