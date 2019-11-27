@@ -38,10 +38,23 @@ ln -s /usr/lib/x86_64-linux-gnu/libnetcdf.so /usr/lib/libnetcdf.so.7
 pmc encode --src input_file --bonds input_bonds_file --dst output_file --qr 0.01 --qa 0.1 --qc 0.001
 ```
 
+* ```--src input_file``` Input trajectory file in supported format
+* ```--bonds input_bonds_file``` Input bonds file in supported format
+* ```--dst output_file``` Path to newly created compressed file
+* ```--qr <value>``` Quantization of residues - controls the distortion of data (Optional, default value: 0.01)
+* ```--qa <value>``` Quantization of angles - controls only the data rate (Optional, default value: 0.1)
+* ```--qc <value>``` Quantization of canonical molecule - controls only the data rate (Optional, default value: 0.001)
+* ```-v``` Enable verbose mode
+
 ###Decoding
 ```
 pmc decode --src input_file --bonds input_bonds_file --dst output_file
 ```
+
+* ```--src input_file``` Input compressed trajectory file
+* ```--bonds input_bonds_file``` Input bonds file in supported format
+* ```--dst output_file``` Path to newly created file in supported format (determined by file extension)
+* ```-v``` Enable verbose mode
 
 ##Supported bond formats
 

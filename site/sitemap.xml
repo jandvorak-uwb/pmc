@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>https://jandvorak-uwb.github.io/pmc/</loc>
+     <lastmod>2019-11-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://jandvorak-uwb.github.io/pmc/bin/</loc>
+     <lastmod>2019-11-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://jandvorak-uwb.github.io/pmc/api/</loc>
+     <lastmod>2019-11-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
