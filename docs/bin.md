@@ -33,6 +33,8 @@ ln -s /usr/lib/x86_64-linux-gnu/libnetcdf.so /usr/lib/libnetcdf.so.7
 
 ##Usage
 
+For Linux distributions, please replace ```pmc``` by ```./pmc.sh``` in following usage examples.
+
 ###Encoding
 ```
 pmc encode --src input_file --bonds input_bonds_file --dst output_file --qr 0.01 --qa 0.1 --qc 0.001
