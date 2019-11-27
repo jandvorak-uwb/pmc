@@ -1,6 +1,6 @@
 #Command line tool
 
-The tool is available to download from <https://xxx.yyy>
+The tool is available to download from <https://github.com/jandvorak-uwb/pmc/releases/download/1.0/pmc.zip>
 
 ##System requirements
 
