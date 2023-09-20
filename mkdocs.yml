@@ -13,8 +13,8 @@ nav:
     
 theme:
     name: material
-    logo:
-        icon: "home"
+    icon:
+        logo: material/molecule
     favicon: 'assets/images/favicon.png'
     palette:
         primary: "black"
