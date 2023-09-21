@@ -19,12 +19,13 @@ theme:
     palette:
         primary: "black"
         accent: "black"
+        
+plugins: []
     
 markdown_extensions:
-  - admonition
-  - codehilite:
-      guess_lang: false
-  - toc:
-      permalink: true
-  - attr_list
-  - md_in_html
+    - admonition
+    - codehilite:
+        guess_lang: false
+    - toc:
+        permalink: true
+    - attr_list
