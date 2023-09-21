@@ -21,6 +21,9 @@ theme:
         accent: "black"
         
 plugins: []
+
+extra_css:
+  - css/extra.css
     
 markdown_extensions:
     - admonition
