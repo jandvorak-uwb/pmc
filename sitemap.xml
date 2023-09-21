@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jandvorak-uwb.github.io/pmc/</loc>
-         <lastmod>2023-09-20</lastmod>
+         <lastmod>2023-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jandvorak-uwb.github.io/pmc/api/</loc>
-         <lastmod>2023-09-20</lastmod>
+         <lastmod>2023-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jandvorak-uwb.github.io/pmc/bin/</loc>
-         <lastmod>2023-09-20</lastmod>
+         <lastmod>2023-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
