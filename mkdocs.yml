@@ -1,21 +1,21 @@
 site_name: PMC
 site_description: Predictive Molecule Compression
 site_url: https://jandvorak-uwb.github.io/pmc/
-repo_name: 'jandvorak-uwb/pmc'
-repo_url: https://github.com/jandvorak-uwb/pmc/
+repo_name: 'jdvorak/pmc-cpp-lib'
+repo_url: https://gitlab.kiv.zcu.cz/jdvorak/pmc-cpp-lib
 
 edit_uri: ""
 
 nav:
     - Home: index.md
     - Command line tool: bin.md
-    - API Reference: api.md
+    - C++ Library: api.md
     
 theme:
     name: material
     icon:
         logo: material/molecule
-    favicon: 'assets/images/favicon.png'
+    favicon: "images/photo.png"
     palette:
         primary: "black"
         accent: "black"
@@ -26,3 +26,5 @@ markdown_extensions:
       guess_lang: false
   - toc:
       permalink: true
+  - attr_list
+  - md_in_html
